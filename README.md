@@ -1,2 +1,2 @@
-# CCS249-EXERCISE-3-DA-OSOS
-NLP - Language Mode
+# CCS249-EXERCISE-3-DANOSOS
+NLP - Language Model
